@@ -3,7 +3,7 @@
  * Name::  Mos Kullathon
  * Student ID::  921425216
  * GitHub-Name::  mosguinz
- * Project:: Assignment 1 – Command Line Arguments
+ * Project::  Assignment 1 – Command Line Arguments
  *
  * File::  mos_kullathon_HW1_main.c
  *
