@@ -35,8 +35,8 @@
 # will delete the executable and any object files in your directory.
 #
 
-LASTNAME=
-FIRSTNAME=
+LASTNAME=Mos
+FIRSTNAME=Kullathon
 HW=1
 
 RUNOPTIONS=Hello World
